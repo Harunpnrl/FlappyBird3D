@@ -16,9 +16,9 @@ A Flappy Bird clone made with Unity.
 
 ## 📸 Screenshots
 
-![Menu](Screenshots/menu.png)
-![Gameplay](Screenshots/gameplay.png)
-![Game Over](Screenshots/gameover.png)
+![Menu](screenshots/menu.png)
+![Gameplay](screenshots/gameplay.png)
+![Game Over](screenshots/gameover.png)
 
 ## ▶ How to Play
 - Click Start
